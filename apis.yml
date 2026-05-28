@@ -1,0 +1,32 @@
+aid: emojihub
+name: EmojiHub
+description: "Get emojis by categories and groups"
+url: https://github.com/cheatsnake/emojihub
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Art & Design"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Art And Design
+  - Public APIs
+apis:
+  - name: EmojiHub
+    description: "Get emojis by categories and groups"
+    humanURL: https://github.com/cheatsnake/emojihub
+    baseURL: https://github.com/cheatsnake/emojihub
+    tags:
+      - Art And Design
+    properties:
+      - type: Documentation
+        url: https://github.com/cheatsnake/emojihub
+common:
+  - type: Website
+    url: https://github.com/cheatsnake/emojihub
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
